@@ -1,6 +1,8 @@
 *.sw*
 *.bak
 *_bak.py
+*.egg-info
+*.png
 
 .cache/
 __pycache__/
@@ -9,4 +11,6 @@ dist/
 manopth_hassony2.egg-info/
 
 mano/models
+manopth/models
 assets/mano_layer.svg
+mano_v1_2/
